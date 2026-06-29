@@ -1,0 +1,46 @@
+# Backup files
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.iml
+
+# Environment files
+.env
+.env.*
+
+# Dependency directories
+node_modules/
+
+# Build/output directories
+dist/
+build/
+out/
+coverage/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
